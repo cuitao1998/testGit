@@ -11,5 +11,6 @@ public class HelloGIt {
 		System.out.println("分支添加!");
 		System.out.println("第二次提交之前更新");
 		System.out.println("在线添加!");
+		System.out.println("本地添加!");
 	}
 }
